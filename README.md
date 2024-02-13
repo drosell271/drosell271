@@ -35,7 +35,7 @@ My skills span several categories, from programming to web design:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### - Hardware Development and Automation
+### - Automation
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### - Data Visualization and Monitoring
