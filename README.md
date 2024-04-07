@@ -1,18 +1,14 @@
-<div align="center">
-  <h1 align="center">Hi, I'm <a href="https://github.com/drosell271">Daniel Rosell</a> 👋</h1>
-</div>
-<img src="http://drive.google.com/uc?export=view&id=1c3F8G5wi5u3LL0cGIg6lGQGqEur_AvFF">
+
+# Hi, I'm Daniel Rosell
 
 [![GitHub followers](https://img.shields.io/github/followers/drosell271?style=for-the-badge&logo=github)](https://github.com/drosell271)
 ![GitHub User's stars](https://img.shields.io/github/stars/drosell271?style=for-the-badge)
-
-## 🙋🏻 About Me
 
 - 🌐 Software Engineer at [PRO5 Consulting Engineers](https://pro5engineers.com/), a consulting firm dedicated to the calculation of photovoltaic plant structures.
 - 🎓 Telecommunications Engineering student at UPM and currently studying at [42 Madrid](https://www.42madrid.com/).
 - 💻 Passionate about programming and electronics.
 - 📚 Continuously learning and exploring new technologies.
-<br>
+
 
 ## 🧰 Technologies and Tools
 
@@ -23,13 +19,17 @@ My skills span several categories, from programming to web design:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### - Programming and Backend Development
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### - Databases and Scripting
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
