@@ -5,7 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/drosell271?style=for-the-badge)
 
 - 🌐 Software Engineer at [PRO5 Consulting Engineers](https://pro5engineers.com/), a consulting firm dedicated to the calculation of photovoltaic plant structures.
-- 🎓 Telecommunications Engineering student at UPM and currently studying at [42 Madrid](https://www.42madrid.com/).
+- 🎓 Telecommunications Engineer graduated from the Universidad Politécnica de Madrid (UPM). Former student at [42 Madrid](https://www.42madrid.com/).
 - 💻 Passionate about programming and electronics.
 - 📚 Continuously learning and exploring new technologies.
 
