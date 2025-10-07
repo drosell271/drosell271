@@ -1,105 +1,182 @@
+# 👋 Hi there! I'm **Daniel Rosell**
 
-# Hi, I'm Daniel Rosell
+I’m a **Telecommunications Engineer** and **Full-Stack Developer** with a deep passion for software development, problem-solving, and learning new technologies.
 
-[![GitHub followers](https://img.shields.io/github/followers/drosell271?style=for-the-badge&logo=github)](https://github.com/drosell271)
-![GitHub User's stars](https://img.shields.io/github/stars/drosell271?style=for-the-badge)
-
-- 🌐 Software Engineer at [PRO5 Consulting Engineers](https://pro5engineers.com/), a consulting firm dedicated to the calculation of photovoltaic plant structures.
-- 🎓 Telecommunications Engineer graduated from the Universidad Politécnica de Madrid (UPM). Former student at [42 Madrid](https://www.42madrid.com/).
-- 💻 Passionate about programming and electronics.
-- 📚 Continuously learning and exploring new technologies.
-
-
-## 🧰 Technologies and Tools
-
-My skills span several categories, from programming to web design:
-
-### - 🚀 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+Since I was a kid, I’ve been fascinated by how things work — from building small scripts and automations to developing complete web applications and AI-driven tools.  
+I love exploring how technology can simplify complex ideas, make learning more accessible, and bring innovation into real-world projects.
 
 <br>
 
-### - 🌐 Web Development
-#### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🧠 About Me
 
-#### Backend:
+- 🎓 **Telecommunications Engineer** – graduated from the *Technical University of Madrid (UPM)*.  
+- 💻 **Former 42 Madrid student** – where I honed my problem-solving skills and learned through a peer-to-peer, project-based methodology.  
+- ⚙️ **Full-stack developer** with experience in both frontend and backend development.  
+- 🚀 Passionate about **clean architecture**, **UI/UX design**, and **cloud-based apps**.  
+- 🌱 Constantly learning new frameworks, libraries, and design patterns to improve code quality and performance.
+
+I enjoy working on projects that mix creativity, technical challenge, and real impact — whether through AI, web development, or automation.
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🎓 [AIQuiz – Bachelor’s Thesis](https://github.com/CyberAula/aiquiz)
+> *An intelligent quiz platform powered by AI, developed as my final degree project.*
+
+AIQuiz uses OpenAI’s API to automatically generate adaptive questions and feedback for students.  
+It also integrates a **Retrieval-Augmented Generation (RAG)** system that allows teachers to base the generated questions on their **own course materials** and subject content, ensuring contextually relevant quizzes.  
+The platform helps educators create personalized quizzes and analytics dashboards in seconds.
+
+**Tech stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Role:** Full-stack developer & project lead  
+**Highlights:**
+- AI-driven question generation based on teacher content (RAG).  
+- Complete API for quiz management and analytics.  
+- Responsive UI built with Next.js and TailwindCSS.
+
+<br>
+
+### 🧠 [LoGaQuiz-Neo](https://github.com/TIGE-UPM/LoGaQuiz-Neo)
+> *A gamified learning tool for university courses.*
+
+This project was designed to engage students through a points-based quiz system integrated with FastAPI and React.  
+Used in real classrooms at UPM, it helps professors monitor performance and student progress in real time.  
+It runs **entirely offline and locally**, ensuring privacy and full functionality without an internet connection.
+
+**Tech stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Role:** Backend and frontend developer  
+**Highlights:**
+- Built RESTful APIs for dynamic quiz logic.  
+- Developed reusable React components for dashboards.  
+- Full local/offline functionality for academic environments.
+
+<br>
+
+### 🏆 [Licor42 – Hunger4Innovation 2023](https://github.com/drosell271/Licor42-Hunger4Innovation2023)
+> *Data-driven dashboard presented for the “Hunger4Innovation” competition.*
+
+A web dashboard that visualizes industrial and consumer data in real time, focusing on usability and data insight.  
+Combines backend data processing with interactive chart visualizations.
+
+**Tech stack:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+**Role:** Full-stack developer  
+**Highlights:**
+- Developed an interactive, real-time data visualization dashboard.  
+- Designed backend endpoints for analytics aggregation.  
+- Focused on usability and visual clarity through Chart.js.
 
 <br>
 
-### - 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+### 🌐 [Pro5 Engineers](https://pro5engineers.com/)
+> *Public website of Pro5 Engineers — international engineering firm.*
+
+I manage, maintain, and continuously improve the corporate website of **Pro5 Engineers**, ensuring it reflects a modern, professional, and technically solid image of the company.
+
+**Tech stack:**  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Role:** Full-stack developer & DevOps maintainer  
+**Highlights:**
+- Implemented a modern and lightweight design using React + TailwindCSS.  
+- Performance optimization and SEO improvements.  
+- Responsible for deployment and DNS/CDN management on Cloudflare.
 
 <br>
 
-### - 🗃 Databases & Data Management
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+## 🧩 Tech Stack & Tools
 
-<br>
-
-### - 🛠 Scripting & Automation
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<br>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### - ⚙️ DevOps & Containers
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases / AI**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps / Cloud**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Other Tools**  
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=plotly&logoColor=white)
+
+💡 Focused on the **Vercel (Next.js) + Supabase** stack and the **MERN** ecosystem for fast, scalable, and cloud-native web applications.
 
 <br>
 
-### - 🔗 API & Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🎯 What I’m Interested In
+
+- 🧠 **Artificial Intelligence** – integrating AI models into practical web applications.  
+- ⚡ **Performance & scalability** – optimizing APIs, databases, and client-side rendering.  
+- 🌍 **Cloud-native apps** – deploying modern applications using serverless architecture.  
+- 🤝 **Collaborative projects** – contributing to open-source and learning from the community.
 
 <br>
 
-### - 📝 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🏗️ Development Philosophy
+
+I believe in **building things that last** — clean code, clear structure, and continuous learning.  
+Every project is an opportunity to apply engineering principles to software development: analysis, efficiency, and reliability.
+
+> “Coding is not just about writing code — it’s about turning ideas into reality.”
 
 <br>
 
-### - 📊 Data Visualization & Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## 📫 Get in Touch
 
-These tools and technologies are an integral part of my daily work, allowing me to tackle a wide range of projects and challenges in the field of software engineering.
+- 💼 **GitHub:** [github.com/drosell271](https://github.com/drosell271)  
+- 🌐 **LinkedIn:** [linkedin.com/in/drosell271](https://www.linkedin.com/in/drosell271/)  
+- 📧 **Email:** [drosell271@gmail.com](mailto:drosell271@gmail.com)
 
+<br>
 
-## ⚙️ GitHub Analytics
+### 💬 Final Thoughts
 
-<p align="center">
-<a href="https://github.com/drosell271">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drosell271&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drosell271&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+I’m always open to new opportunities, collaborations, and challenges that push me to grow as a developer.  
+If you’re looking for someone curious, creative, and technically driven — let’s talk.
 
-## 📞 Contact
-
-For inquiries, collaborations, or professional opportunities, you can contact me through the following platforms:
-
-[![Email](https://img.shields.io/badge/Email-drmoreno271%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:drmoreno271@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Rosell-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielrosell/)
-
-Feel free to send me an email or connect with me on LinkedIn. I am always open to discussing new projects and opportunities.
+Thanks for stopping by! 👋
