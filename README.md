@@ -155,6 +155,5 @@ Designed with simplicity and low resource usage in mind.
 
 ## 📫 Get in Touch
 
-- 💼 GitHub: https://github.com/drosell271  
-- 🌐 LinkedIn: https://www.linkedin.com/in/drosell271/  
-- 📧 Email: drosell271@gmail.com
+- 🌐 LinkedIn: [https://www.linkedin.com/in/drosell271/ ](https://www.linkedin.com/in/danielrosell/) 
+- 📧 Email: drmoreno271@gmail.com
