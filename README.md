@@ -91,22 +91,6 @@ It combines a modern web interface with background processing and AI pipelines t
 
 ---
 
-### 🎓 AIQuiz – Bachelor’s Thesis
-> AI-powered platform for generating adaptive quizzes based on custom learning materials
-
-AIQuiz is a web platform that helps educators generate quizzes automatically using their own course content.  
-It leverages a RAG-based architecture to ensure context-aware and relevant question generation.
-
-**Tech stack:** Next.js, React, MongoDB, Qdrant, OpenAI API  
-**Role:** Full-stack developer & project lead  
-
-**Impact:**
-- Reduces manual effort in quiz creation  
-- Generates context-aware educational content using AI  
-- Demonstrates real-world application of RAG in education  
-
----
-
 ### 💾 NAS-Backup
 > Automated backup system for local files, emails, and attachments to Synology NAS
 
@@ -137,22 +121,6 @@ Broker-A-Hacienda is a specialized data utility that extracts transaction histor
 
 ---
 
-### 🧠 LoGaQuiz-Neo
-> Gamified quiz platform used in university classrooms
-
-LoGaQuiz-Neo is an educational tool designed to improve student engagement through gamification.  
-It is used in real academic environments to monitor performance and participation in real time.
-
-**Tech stack:** React, FastAPI, SQLite  
-**Role:** Full-stack developer  
-
-**Impact:**
-- Used in university classrooms for student evaluation  
-- Provides real-time feedback to students and professors  
-- Fully offline-capable for reliability and privacy  
-
----
-
 ### 🌐 Pro5 Engineers
 > Corporate website for an international engineering company
 
@@ -168,19 +136,35 @@ Responsible for maintaining and improving the company’s website, focusing on p
 
 ---
 
-### ⚙️ Auto-Mouse-Mover
-> Lightweight Windows tool to prevent system sleep through subtle automation
+### 🎓 AIQuiz – Bachelor’s Thesis
+> AI-powered platform for generating adaptive quizzes based on custom learning materials
 
-A minimal and efficient desktop utility that simulates mouse movement to keep systems active.  
-Designed with simplicity and low resource usage in mind.
+AIQuiz is a web platform that helps educators generate quizzes automatically using their own course content.  
+It leverages a RAG-based architecture to ensure context-aware and relevant question generation.
 
-**Tech stack:** Python  
-**Role:** Developer  
+**Tech stack:** Next.js, React, MongoDB, Qdrant, OpenAI API  
+**Role:** Full-stack developer & project lead  
 
 **Impact:**
-- Prevents system lock/sleep in unattended workflows  
-- Lightweight and easy-to-use utility  
-- Demonstrates practical automation approach  
+- Reduces manual effort in quiz creation  
+- Generates context-aware educational content using AI  
+- Demonstrates real-world application of RAG in education  
+
+---
+
+### 🧠 LoGaQuiz-Neo
+> Gamified quiz platform used in university classrooms
+
+LoGaQuiz-Neo is an educational tool designed to improve student engagement through gamification.  
+It is used in real academic environments to monitor performance and participation in real time.
+
+**Tech stack:** React, FastAPI, SQLite  
+**Role:** Full-stack developer  
+
+**Impact:**
+- Used in university classrooms for student evaluation  
+- Provides real-time feedback to students and professors  
+- Fully offline-capable for reliability and privacy  
 
 ---
 
