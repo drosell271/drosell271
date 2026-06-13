@@ -58,6 +58,7 @@ I’m especially interested in building tools that bridge software and engineeri
 ### 🤖 AI & Data
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -103,6 +104,36 @@ It leverages a RAG-based architecture to ensure context-aware and relevant quest
 - Reduces manual effort in quiz creation  
 - Generates context-aware educational content using AI  
 - Demonstrates real-world application of RAG in education  
+
+---
+
+### 💾 NAS-Backup
+> Automated backup system for local files, emails, and attachments to Synology NAS
+
+NAS-Backup is a robust automation tool designed to streamline data redundancy by automatically fetching, organizing, and backing up local directories along with email correspondence and attachments directly to a Synology NAS.
+
+**Tech stack:** Python, IMAP, Synology API, Task Scheduler  
+**Role:** Developer  
+
+**Impact:**
+- Automates critical data redundancy workflows, minimizing human error and data loss  
+- Efficiently handles attachment extraction and categorization from secure mail servers  
+- Operates as a lightweight, scheduled background process tailored for NAS environments  
+
+---
+
+### 📊 Broker-A-Hacienda
+> Data parsing and transformation tool to format broker operations for the Spanish tax model
+
+Broker-A-Hacienda is a specialized data utility that extracts transaction history from financial brokers and formats it into the exact structures required for Spanish tax reporting (Hacienda). It simplifies fiscal compliance for retail investors by automating tedious calculations.
+
+**Tech stack:** Python, Pandas, Regex  
+**Role:** Developer  
+
+**Impact:**
+- Streamlines the tax declaration process by automating complex financial data parsing  
+- Normalizes disparate broker export formats into unified, compliance-ready datasets  
+- Eliminates manual spreadsheet calculations for capital gains and asset operations  
 
 ---
 
@@ -155,5 +186,5 @@ Designed with simplicity and low resource usage in mind.
 
 ## 📫 Get in Touch
 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/drosell271/ ](https://www.linkedin.com/in/danielrosell/) 
-- 📧 Email: drmoreno271@gmail.com
+- 🌐 LinkedIn: [https://www.linkedin.com/in/danielrosell/](https://www.linkedin.com/in/danielrosell/)  
+- 📧 Email: [drmoreno271@gmail.com](mailto:drmoreno271@gmail.com)
