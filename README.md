@@ -49,25 +49,28 @@ I’m especially interested in building tools that bridge software and engineeri
 
 ## 🧩 Tech Stack
 
-### 🚀 Core
+### 🚀 Core & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI & Data
+### 🤖 AI, Data & Processing
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-373C3E?style=for-the-badge&logo=celery&logoColor=white)
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ Other
+### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -118,6 +121,22 @@ Broker-A-Hacienda is a specialized data utility that extracts transaction histor
 - Streamlines the tax declaration process by automating complex financial data parsing  
 - Normalizes disparate broker export formats into unified, compliance-ready datasets  
 - Eliminates manual spreadsheet calculations for capital gains and asset operations  
+
+---
+
+### ⚙️ Auto-Mouse-Mover
+> Lightweight Windows tool to prevent system sleep through subtle automation
+
+A minimal and efficient desktop utility that simulates mouse movement to keep systems active.  
+Designed with simplicity and low resource usage in mind.
+
+**Tech stack:** Python  
+**Role:** Developer  
+
+**Impact:**
+- Prevents system lock/sleep in unattended workflows  
+- Lightweight and easy-to-use utility  
+- Demonstrates practical automation approach  
 
 ---
 
