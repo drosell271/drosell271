@@ -49,28 +49,31 @@ I’m especially interested in building tools that bridge software and engineeri
 
 ## 🧩 Tech Stack
 
-### 🚀 Core & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🤖 AI, Data & Processing
+### 🤖 AI, Automation & Data Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-373C3E?style=for-the-badge&logo=celery&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Databases
+### 🌐 Full-Stack Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+### ☁️ Cloud, DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -78,7 +81,7 @@ I’m especially interested in building tools that bridge software and engineeri
 
 ## 🚀 Featured Projects
 
-### 🧠 Sistema-RAG
+### 🧠 [Sistema-RAG](https://github.com/drosell271/Sistema-RAG)
 > Self-hosted platform for document ingestion and semantic search using AI
 
 Sistema-RAG is a full-stack platform designed to process, index, and query documents and emails using semantic search.  
@@ -94,7 +97,7 @@ It combines a modern web interface with background processing and AI pipelines t
 
 ---
 
-### 💾 NAS-Backup
+### 💾 [NAS-Backup](https://github.com/drosell271/NAS-Backup)
 > Automated backup system for local files, emails, and attachments to Synology NAS
 
 NAS-Backup is a robust automation tool designed to streamline data redundancy by automatically fetching, organizing, and backing up local directories along with email correspondence and attachments directly to a Synology NAS.
@@ -109,7 +112,7 @@ NAS-Backup is a robust automation tool designed to streamline data redundancy by
 
 ---
 
-### 📊 Broker-A-Hacienda
+### 📊 [Broker-A-Hacienda](https://github.com/drosell271/Broker-A-Hacienda)
 > Data parsing and transformation tool to format broker operations for the Spanish tax model
 
 Broker-A-Hacienda is a specialized data utility that extracts transaction history from financial brokers and formats it into the exact structures required for Spanish tax reporting (Hacienda). It simplifies fiscal compliance for retail investors by automating tedious calculations.
@@ -124,7 +127,7 @@ Broker-A-Hacienda is a specialized data utility that extracts transaction histor
 
 ---
 
-### ⚙️ Auto-Mouse-Mover
+### ⚙️ [Auto-Mouse-Mover](https://github.com/drosell271/Auto-Mouse-Mover)
 > Lightweight Windows tool to prevent system sleep through subtle automation
 
 A minimal and efficient desktop utility that simulates mouse movement to keep systems active.  
@@ -140,7 +143,7 @@ Designed with simplicity and low resource usage in mind.
 
 ---
 
-### 🌐 Pro5 Engineers
+### 🌐 [Pro5 Engineers](https://pro5engineers.com/)
 > Corporate website for an international engineering company
 
 Responsible for maintaining and improving the company’s website, focusing on performance, reliability, and user experience.
@@ -155,7 +158,7 @@ Responsible for maintaining and improving the company’s website, focusing on p
 
 ---
 
-### 🎓 AIQuiz – Bachelor’s Thesis
+### 🎓 [AIQuiz – Bachelor’s Thesis](https://github.com/CyberAula/aiquiz)
 > AI-powered platform for generating adaptive quizzes based on custom learning materials
 
 AIQuiz is a web platform that helps educators generate quizzes automatically using their own course content.  
@@ -171,19 +174,18 @@ It leverages a RAG-based architecture to ensure context-aware and relevant quest
 
 ---
 
-### 🧠 LoGaQuiz-Neo
-> Gamified quiz platform used in university classrooms
+### 🎂 [Felicita](https://github.com/drosell271/Felicita)
+> Full-stack personalized greeting and automated multimedia generation system
 
-LoGaQuiz-Neo is an educational tool designed to improve student engagement through gamification.  
-It is used in real academic environments to monitor performance and participation in real time.
+Felicita is a web application designed to orchestrate and generate customized multimedia celebrations. It streamlines the creation and delivery of interactive digital greetings, balancing dynamic rendering with reliable storage.
 
-**Tech stack:** React, FastAPI, SQLite  
+**Tech stack:** Next.js, React, Node.js, TailwindCSS  
 **Role:** Full-stack developer  
 
 **Impact:**
-- Used in university classrooms for student evaluation  
-- Provides real-time feedback to students and professors  
-- Fully offline-capable for reliability and privacy  
+- Automates the workflow of generating personalized interactive content  
+- Features responsive UI layouts tailored for multimedia delivery across devices  
+- Integrates frontend interactivity with reliable backend processing for custom user assets  
 
 ---
 
